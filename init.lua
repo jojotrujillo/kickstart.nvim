@@ -159,7 +159,7 @@ vim.opt.scrolloff = 10
 vim.opt.spell = true
 vim.opt.spelllang = en_us
 
-vim.opt.textwidth = 110
+vim.opt.textwidth = 120
 
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
